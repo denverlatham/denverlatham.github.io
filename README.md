@@ -16,9 +16,10 @@ You can find my full resume [HERE](https://denverlatham.github.io/resume.html)
 ## Projects
 - [My Cybersecurity Journey](https://denverlatham.github.io/my-cybersecurity-journey/)
 
-## Contact
-denverL1975@gmail.com
+## Contact Info
 
-https://www.linkedin.com/in/denver2terp/
+[Contact Me](mailto:denverL1975@gmail.com)
+
+[My LinkedIn](https://www.linkedin.com/in/denver2terp/)
 
 
