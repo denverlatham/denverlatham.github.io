@@ -14,8 +14,7 @@ You can find my full resume [HERE](https://denverlatham.github.io/resume.html)
 - CompTIA coursework completed
 
 ## Projects
-- [My Cybersecurity Journey](https://denverlatham.github.com/my-cybersecurity-journey)
-
+- [My Cybersecurity Journey](https://denverlatham.github.io/my-cybersecurity-journey/)
 
 ## Contact
 denverL1975@gmail.com
