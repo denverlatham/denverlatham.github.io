@@ -1,0 +1,16 @@
+/* This code respects the user's system setting using the prefers-color-scheme query.
+ * It will use the default theme for light mode.
+ * It will use custom dark colors ONLY if the user's operating system is set to dark.
+ */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1a1a1a;
+        color: #f1f1f1;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: #bb86fc; 
+    }
+    a {
+        color: #80cfff; 
+    }
+}
