@@ -1,1 +1,4 @@
 title: Denver Latham - Cybersecurity & IT
+# Load custom CSS file for dark mode detection
+css_files:
+  - /style.css
