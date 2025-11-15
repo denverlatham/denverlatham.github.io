@@ -6,6 +6,7 @@ My background in service coordination taught me to guide individuals through com
 I am seeking opportunities where I can contribute, learn, and grow – whether in cybersecurity, IT support, or related technology roles. I value integrity, collaboration, and continuous improvement, and I am eager to apply my skills and grow with a team that values integrity, collaboration, and continuous improvement. 
 
 You can find my full resume [HERE](https://denverlatham.github.io/resume.html)
+Or you can download the PDF [HERE](Denver_Latham_Resume_2025.pdf)
 
 ## Certifications
 - ISC2 CC
