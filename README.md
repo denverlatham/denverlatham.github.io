@@ -1,3 +1,5 @@
+<p align="right"><img src="images/DenverWebsitePortrait.jpg" alt="Denver Latham portrait" width="180"></p>
+
 # About Me
 I am a public service professional transitioning into the IT and cybersecurity field. With extensive experience in supporting people in customer-facing roles, I bring strong communication skills, problem-solving ability, and a dedication to helping others succeed. Now, I am applying those same strengths to technology.
 
