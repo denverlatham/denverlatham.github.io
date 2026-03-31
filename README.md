@@ -11,8 +11,8 @@ You can find my full resume [HERE](https://denverlatham.github.io/resume.html)
 Or you can download the PDF [HERE](Denver_Latham_Resume_2025.pdf)
 
 ## Certifications
-- CompTIA A+
-- CompTIA Network+ https://www.credly.com/badges/7195c631-0c55-44a5-bbac-0d164178d144/public_url
+- [CompTIA A+](https://www.credly.com/badges/894f3f03-331f-47d1-944f-2e57b2340933/public_url) 
+- [CompTIA Network+](https://www.credly.com/badges/7195c631-0c55-44a5-bbac-0d164178d144/public_url)
 - Google IT Support
 - ISC2 CC
 - IBM Cybersecurity Analsyt
