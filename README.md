@@ -12,6 +12,7 @@ Or you can download the PDF [HERE](Denver_Latham_Resume_2025.pdf)
 
 ## Certifications
 - CompTIA A+
+- CompTIA Network+
 - Google IT Support
 - ISC2 CC
 - IBM Cybersecurity Analsyt
