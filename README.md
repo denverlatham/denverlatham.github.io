@@ -13,9 +13,9 @@ Or you can download the PDF [HERE](Denver_Latham_Resume_2025.pdf)
 ## Certifications
 - [CompTIA A+](https://www.credly.com/badges/894f3f03-331f-47d1-944f-2e57b2340933/public_url) 
 - [CompTIA Network+](https://www.credly.com/badges/7195c631-0c55-44a5-bbac-0d164178d144/public_url)
-- Google IT Support
-- ISC2 CC
-- IBM Cybersecurity Analsyt
+- [Google IT Support](https://www.credly.com/badges/51e39e10-f0d7-4200-872e-8290ff7e9a4a/public_url)
+- [ISC2 CC](https://www.credly.com/badges/5dc7c014-b183-4daf-9854-59704a418df2/public_url)
+  
   
 
 ## Projects
